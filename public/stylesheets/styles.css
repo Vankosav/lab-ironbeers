@@ -5,8 +5,45 @@ dark-blue: #0a2c42;
 grey: #bfbfbf;
 font-family: Arial, Helvetica, sans-serif;
 */
-nav a{
-    background-color: #2081c3;
-    font-family: Arial, Helvetica, sans-serif;
 
+body {
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav {
+    padding: 20px;
+    background-color: #2081c3;
+
+}
+
+nav a {
+    color: white;
+    padding-left: 60px;
+    text-decoration: none;
+}
+
+.center {
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.beer {
+    width: 350px;
+    padding: 100px 0px 20px 500px;
+}
+
+.center a {
+    background-color: #2081c3;
+    padding: 10px;
+    margin:20px 0px 0px 550px;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+
+.card {
+    display:flex;
+    
 }
