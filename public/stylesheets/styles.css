@@ -9,9 +9,11 @@ font-family: Arial, Helvetica, sans-serif;
 body {
     margin: 0px;
     font-family: Arial, Helvetica, sans-serif;
+    
+
 }
 
-nav {
+nav{
     padding: 20px;
     background-color: #2081c3;
 
@@ -44,6 +46,26 @@ nav a {
 }
 
 .card {
-    display:flex;
-    
+   margin-top: 50px;
+   margin-left: 100px;
+   padding: 20px;
+   width:300px;
+   display: inline-flex;
 }
+
+.card img {
+    margin-left: 80px;
+    height: 120px;
+}
+
+.random-beer{
+    margin-top: 50px;
+   margin-left: 100px;
+ 
+
+}
+.random-beer img{
+    margin-left: 40px;
+    height: 200px;
+}
+
