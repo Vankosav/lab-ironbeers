@@ -69,3 +69,11 @@ nav a {
     height: 200px;
 }
 
+footer {
+    background-color: #0a2c42;
+    margin-top: 100px;
+padding: 10px;
+color: white;
+    padding-left: 60px;
+    text-decoration: none;
+}
